@@ -8,7 +8,7 @@ export const HeroCard = () => {
         <div className="absolute bg-red-600 shadow-[rgba(0,0,0,0)_0px_0px_0px_0px,rgba(0,0,0,0)_0px_0px_0px_0px,rgba(0,0,0,0.1)_0px_4px_6px_-1px,rgba(0,0,0,0.1)_0px_2px_4px_-2px] box-border caret-transparent h-7 -translate-x-3.5 w-7 z-10 rounded-full left-2/4 top-4"></div>
         <div className="relative box-border caret-transparent max-h-[354px] overflow-hidden rounded-sm">
           <img
-            src="https://c.animaapp.com/mkj1il3o8LXpDA/assets/onyctlmiwszn7wjkueku.png"
+            src="/images/background.png"
             alt="Les confidences d'Amandine"
             className="box-border caret-transparent max-w-full object-cover w-full"
           />
